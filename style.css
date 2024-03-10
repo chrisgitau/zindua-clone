@@ -33,6 +33,7 @@
 }
 img{
     size: height: 20;
+    display: flex;
 }
 .left{
     color: black;
@@ -50,4 +51,17 @@ img{
 .side button{
     padding-right: 10px;
     margin-right: 20px;
+}
+.images{
+    display: flex;
+    background-color: black;
+    width: 500px;
+    height: 250px;
+
+
+}
+.sub-info img {
+    display: flex;
+    height: 50px;
+    width: 100px;
 }
